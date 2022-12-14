@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\helpdesk02\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-mergeDebugResources-34:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\helpdesk02\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-34:/layout/activity_login.xml",
+        "source": "com.tinne.finalproject4.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-34:/layout/activity_register.xml",
+        "source": "com.tinne.finalproject4.app-main-37:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\helpdesk02\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-mergeDebugResources-34:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\helpdesk02\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\helpdesk02\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-mergeDebugResources-34:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\helpdesk02\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\helpdesk02\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\helpdesk02\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\layout\\activity_main.xml"
+    }
+]
