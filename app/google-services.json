@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662153302194",
+    "project_id": "final-project-4-39666",
+    "storage_bucket": "final-project-4-39666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662153302194:android:1d9f6b63c64cf7cb21b9ab",
+        "android_client_info": {
+          "package_name": "com.tinne.finalproject4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662153302194-bjnaug1tjf29u41anf0o0t1a25i9etfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1bEfW0dCIaMLSQS0i8z50myp6Sfha4XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662153302194-bjnaug1tjf29u41anf0o0t1a25i9etfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
